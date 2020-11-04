@@ -1,0 +1,37 @@
+[1118/094946:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[1118/094946:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[1118/094957:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1118/094957:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1118/094957:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1118/094958:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/094958:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/094958:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/094958:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/094959:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[1118/094959:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[1118/095000:ERROR:audio_low_latency_output_win.cc(207)] Bailing out due to non-perfect timing.
+[1118/095000:ERROR:audio_low_latency_output_win.cc(207)] Bailing out due to non-perfect timing.
+[1118/095007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/095007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/095007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/095007:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/095029:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[1118/095030:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[1118/101103:ERROR:gl_surface_egl.cc(133)] eglInitialize failed with error UNKNOWN
+[1118/101103:ERROR:gl_surface_win.cc(97)] GLSurfaceEGL::InitializeOneOff failed.
+[1118/101115:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1118/101115:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1118/101115:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1118/101115:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/101115:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/101115:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/101115:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/101117:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[1118/101117:ERROR:audio_low_latency_output_win.cc(207)] Bailing out due to non-perfect timing.
+[1118/101118:ERROR:audio_low_latency_output_win.cc(207)] Bailing out due to non-perfect timing.
+[1118/101124:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/101124:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/101124:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[1118/101124:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
